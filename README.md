@@ -4,7 +4,7 @@
   <a href="https://pypi.org/project/kreuzberg-crewai/"><img src="https://img.shields.io/pypi/v/kreuzberg-crewai?label=kreuzberg-crewai&color=007ec6" alt="PyPI version"></a>
   <a href="https://pypi.org/project/kreuzberg-crewai/"><img src="https://img.shields.io/pypi/pyversions/kreuzberg-crewai?color=007ec6" alt="Python versions"></a>
   <a href="https://github.com/xberg-io/kreuzberg-crewai/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
-  <a href="https://docs.kreuzberg.dev"><img src="https://img.shields.io/badge/docs-kreuzberg.dev-blue" alt="Docs"></a>
+  <a href="https://docs.xberg.io"><img src="https://img.shields.io/badge/docs-xberg.io-blue" alt="Docs"></a>
   <a href="https://github.com/xberg-io/kreuzberg-crewai/actions/workflows/ci.yaml"><img src="https://github.com/xberg-io/kreuzberg-crewai/actions/workflows/ci.yaml/badge.svg" alt="CI"></a>
 </div>
 
