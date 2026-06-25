@@ -18,11 +18,11 @@ keywords = [
 ]
 license = "MIT"
 maintainers = [
-  { name = "Na'aman Hirschfeld", email = "naaman@kreuzberg.dev" },
-  { name = "Varun Tandon", email = "varun@kreuzberg.dev" },
+  { name = "Na'aman Hirschfeld", email = "naaman@xberg.io" },
+  { name = "Varun Tandon", email = "varun@xberg.io" },
 ]
 authors = [
-  { name = "Kreuzberg.dev", email = "contact@kreuzberg.dev" },
+  { name = "Kreuzberg.dev", email = "contact@xberg.io" },
 ]
 requires-python = ">=3.10"
 classifiers = [
